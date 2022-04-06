@@ -1,0 +1,27 @@
+{
+  "name": "cozy-night",
+  "displayName": "Cozy Night",
+  "description": "",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "azmy60",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azmy60/cozy-night"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cozy Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cozy Night-color-theme.json"
+      }
+    ]
+  }
+}
